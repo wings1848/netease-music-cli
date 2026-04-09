@@ -11,6 +11,13 @@
 ncm-cli 的所有命令调用依赖 API
 Key。请先前往[网易云音乐开放平台](https://developer.music.163.com/st/developer/apply/account?type=INDIVIDUAL)完成入驻并申请，[入驻指南](https://developer.music.163.com/st/developer/document?docId=9504d35aa41a47c6ac9830b2dbf48f94)
 
+## 安装
+
+```bash
+# 使用npx
+npx skills add https://github.com/wings1848/netease-music-cli.git
+```
+
 ## 技能概览
 
 | 技能                      | 说明           | 触发场景        |
