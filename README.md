@@ -1,10 +1,10 @@
 # 网易云音乐 Agent Skills
 
-[English](./doc/README-en.md) | [日本語](./doc/README-jp.md)
-
 基于 `ncm-cli` 的网易云音乐 AI Agent 技能包。
 
 去除[原官方技能](http://github.com/NetEase/skills)中关于用户隐私数据收集的提示词注入，并大幅度进行精简以节省token
+
+[English](./doc/README-en.md) | [日本語](./doc/README-jp.md)
 
 ## 使用的前置条件
 
